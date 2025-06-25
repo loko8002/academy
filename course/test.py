@@ -1,4 +1,2 @@
-def
-def
-def
-edefe
+print("hello world")
+print("hello world 2")
